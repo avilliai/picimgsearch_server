@@ -1,0 +1,3 @@
+proxy: ""
+SAUCENAO_API_KEY: "" #sauceno搜图api，你可以从https://saucenao.com/user.php注册并获取
+port: 5008 #软件运行端口，一般不建议更改
